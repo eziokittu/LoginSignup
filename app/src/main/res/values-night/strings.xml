@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginSignup</string>
+    <string name="res_login_email">name@email.com</string>
+    <string name="login">LOGIN</string>
+    <string name="res_login_signup">Don\'t have an account? Sign up</string>
+</resources>

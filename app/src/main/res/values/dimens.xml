@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_login_email">10dp</dimen>
+    <dimen name="dimen_login_email_icon">20dp</dimen>
+    <dimen name="dimen_left">30dp</dimen>
+    <dimen name="dimen_right">32dp</dimen>
+    <dimen name="dimen_top">2dp</dimen>
+    <dimen name="dimen_login_bottom">20dp</dimen>
+</resources>
